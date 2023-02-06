@@ -1,0 +1,143 @@
+*{
+    box-sizing: border-box;
+}
+
+header{
+    
+    background-color: rgb(75, 84, 206);
+     padding: 20px;
+    text-align: center;
+    height: 240px;
+    color: black;
+}
+#nombre{
+    color: white;
+    font-size: 75px;
+    float: left;
+    margin-left: 10px;
+    position: center;
+    top: 0%;
+    text-align: left;
+    font-weight: bold;
+    padding-bottom: 20px;
+}
+#titulo{
+    color: white;
+    font-size: 20px;
+    float: left;
+    margin-left: 10px;
+    position: center;
+    top: 0%;
+    text-align: left;
+    font-weight: bold;
+}
+
+h1{
+    
+    color:blue;
+    text-align: center;
+    font-size: 25px;
+    text-decoration: underline;
+}
+
+h2{
+    text-decoration: underline;
+    color: blue;
+    font-size: 25px;
+    text-align: center;
+}
+
+h3{
+    color: blue;
+    text-align: center;
+}
+#cita{
+    color: blue;
+    text-align: initial;;
+}
+nav{
+    text-align: center;
+    color: chocolate;
+}
+#ul{
+    text-align: left;
+}
+
+#texto_primario{
+    display: none;
+}
+
+aside{
+    margin-left: 20px;
+    text-align: center;
+    float: left;
+    background-color: rgb(213 213 213);
+    width: 20%;
+    height: 800px;
+
+}
+
+#texto_sec{
+    display: none;
+}
+#texto_terciario{
+    display: none;
+}
+#cita_laboral{
+    display: none;
+}
+img{
+    float: left;
+    width: 20.5%;
+    height: 220px;
+}
+
+section{
+    margin-left: 20%;
+text-align: left;
+}
+button{
+    text-decoration:none;
+    font-weight:600;
+    font-size:10px;
+    color:#ffffff;
+    padding-top:5px;
+    padding-bottom:6px;
+    padding-left: 25px;
+    padding-right:25px;
+    background-color:#005BBB; 
+    border-radius:15px;
+    margin-left: 180px;
+    }
+    nav{
+        margin-left: 22%;
+        text-align: right;
+        border: 5px solid gray;
+        
+        height: 130px;
+    }
+    hr {
+        height: 3px;
+        width: 60%;
+        background-color: black;
+        float: right;
+      }
+      h4{
+        text-decoration: underline;     
+      }
+      contacto{
+       margin-left: 30%;
+      }
+      #btn_cita{
+        text-decoration:none;
+        font-weight:700;
+        font-size:10px;
+        color:#ffffff;
+        padding-top:8px;
+        padding-bottom:9px;
+        padding-left: 30px;
+        padding-right:30px;
+        background-color:#005BBB; 
+        border-radius:15px;
+        margin-left: 180px;
+        }
